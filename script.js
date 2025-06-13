@@ -50,5 +50,4 @@ if (typeof module !== 'undefined' && module.exports) {
 
 function clearDisplay() {
     display.value = '';
-    let unusedVariableForDemo = "hello"; // Variabel tidak digunakan
 }
